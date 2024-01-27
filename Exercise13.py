@@ -17,3 +17,5 @@ for i in range(1, 11):
     for j in range(1, 11):
         # Calculate the product of i and j
         result = i * j
+        # Print the result with adjusted width for proper alignment
+        print(f"{result:3}", end=" ")
