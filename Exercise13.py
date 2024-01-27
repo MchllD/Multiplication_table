@@ -19,3 +19,6 @@ for i in range(1, 11):
         result = i * j
         # Print the result with adjusted width for proper alignment
         print(f"{result:3}", end=" ")
+        
+    # Move to the next line after printing a row
+    print()
