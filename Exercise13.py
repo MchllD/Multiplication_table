@@ -9,4 +9,8 @@
 # Print the result with adjusted width for proper alignment
 
 
-# ____________________________ actual code _________________________________________________
+# _______________________________ actual code _________________________________________________
+
+# create  outer loop for rows (1 to 10)
+for i in range(1, 11):
+    
